@@ -1,6 +1,6 @@
 # Backup-Skript mit Python
 
-Dieses Python-Skript bietet eine einfache Möglichkeit, Verzeichnisse und MySQL-Datenbanken auf einem Linux-System zu sichern. Das Skript unterstützt die regelmäßige Durchführung von Backups durch die Verwendung einer Konfigurationsdatei.
+Dieses Python-Skript bietet eine einfache Möglichkeit, Verzeichnisse und MySQL-Datenbanken auf einem Linux-System zu sichern. Das Skript unterstützt die Durchführung von Backups durch die Verwendung einer Konfigurationsdatei.
 
 ## Voraussetzungen
 
