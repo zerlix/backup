@@ -27,12 +27,13 @@ Dieses Python-Skript bietet eine einfache Möglichkeit, Verzeichnisse und MySQL-
   "backup_location": "/pfad/zum/backup/verzeichnis",
   "backup_dirs": ["/pfad/zum/verzeichnis1", "/pfad/zum/verzeichnis2"]
 }
+```
 - `mysql_user`: Der Benutzername für den Zugriff auf die MySQL-Datenbanken.
 - `mysql_password`: Das Passwort für den MySQL-Benutzer.
 - `mysql_databases`: Eine Liste der zu sichernden MySQL-Datenbanken.
 - `backup_location`: Der Pfad zum Verzeichnis, in dem die Backups gespeichert werden sollen.
 - `backup_dirs`: Eine Liste der zu sichernden Verzeichnisse.
-```
+  
 ### Funktionen des Skripts
 
 - **print_error(msg)**: Gibt eine Fehlermeldung in roter Farbe aus.
