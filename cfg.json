@@ -1,0 +1,10 @@
+{
+  "mysql_backup": 1,
+  "mysql_user": "MYSQL_USER", 
+  "mysql_password": "MYSQL_PASSWORT",
+  "mysql_databases": ["DATENBANK1", "DATENBANK2"],
+    
+  "backup_location": "/backups",
+  "backup_dirs": ["/var/www/domain1", "/var/www/domain2"]
+}
+
